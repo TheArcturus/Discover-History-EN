@@ -1,0 +1,27 @@
+
+body {
+    background-color: #FFF5EE;
+    background-image: url("tajMahal.jpeg");
+    background-attachment: fixed; 
+    opacity: 99.99%;
+
+}
+h1{font-family: 'Calligraffitti', cursive; font-weight: bold; text-align: center;}
+
+h2{
+    font-family: 'Calligraffitti', cursive;text-justify: auto;font-weight: bold;
+
+}
+h3{
+    font-family: 'Calligraffitti', cursive;text-justify: auto;font-weight: bold;
+
+}
+
+p{
+    font-family: 'Calligraffitti', cursive;text-justify: auto;font-weight: bold;
+
+}
+
+img {
+    border-radius: 50%;
+  }

@@ -1,0 +1,27 @@
+
+body {
+    background-color: #FFF5EE;
+    background-image: url("South-Africa-in-10-iconic-images-10.jpg");
+    background-attachment: fixed; 
+    opacity: 99.99%;
+
+}
+h1{font-family: 'Calligraffitti', cursive; text-align: center;font-weight: bold;}
+
+h2{
+    font-family: 'Calligraffitti', cursive;text-justify: auto;font-weight: bold;
+
+}
+h3{
+    font-family: 'Calligraffitti', cursive;text-justify: auto;font-weight: bold;
+
+}
+
+p{
+    font-family: 'Calligraffitti', cursive;text-justify: auto;font-weight: bold;
+
+}
+
+img {
+    border-radius: 50%;
+  }

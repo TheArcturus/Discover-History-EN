@@ -1,0 +1,49 @@
+
+.button_date {
+
+    -fx-background-color: #03558c ;
+    -fx-text-fill: white ;
+
+}
+
+.button_discover {
+
+    -fx-background-color: #03558c ;
+    -fx-text-fill: white ;
+
+}
+
+.button_date:hover {
+
+    -fx-background-color: #0099ff ;
+
+}
+
+.button_discover:hover {
+
+    -fx-background-color: #0099ff ;
+
+}
+
+
+.textfield_date {
+
+    -fx-background-color: #0099ff ;
+    -fx-border-color: #03558c ;
+    -fx-border-width: 1 ;
+
+}
+
+.choicebox_country {
+
+    -fx-background-color: #0099ff ;
+    -fx-text-fill: white ;
+    -fx-border-color: #03558c ;
+    -fx-border-width: 1 ;
+
+}
+
+#webview-id {
+    -fx-padding: 20px; 
+    -fx-margin-right: 10px;
+}

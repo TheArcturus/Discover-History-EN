@@ -1,0 +1,36 @@
+
+body {
+    font-family: 'Calligraffitti', cursive;text-justify: auto;
+    color: black;
+    background-image: url("the-bruce-arbroath.jpg");
+    background-attachment: fixed; 
+    opacity: 99%;
+
+
+}
+
+
+
+h1{font-family: 'Calligraffitti', cursive; text-align: center;
+    font-weight: bold;}
+
+h2{
+    font-family: 'Calligraffitti', cursive;text-justify: auto;
+    font-weight: bold;
+
+}
+h3{
+    font-family: 'Calligraffitti', cursive;text-justify: auto;
+    font-weight: bold;
+
+}
+
+p{
+    font-family: 'Calligraffitti', cursive;text-justify: auto;
+    font-weight: bold;
+
+}
+
+img {
+    border-radius: 50%;
+  }

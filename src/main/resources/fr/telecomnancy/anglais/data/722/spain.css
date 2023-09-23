@@ -1,0 +1,29 @@
+
+body {
+    background-image: url("the_battle_of_guadelete_addaa3a888.jpg");
+    opacity: 100%;
+    background-attachment: fixed; 
+    filter:Alpha(opacity=94);-moz-opacity:0.94;opacity: 0.94;
+
+}
+h1{font-family: 'Calligraffitti', cursive; text-align: center;font-weight: bold;}
+
+h2{
+    font-family: 'Calligraffitti', cursive;text-justify: auto;font-weight: bold;
+
+}
+h3{
+    font-family: 'Calligraffitti', cursive;text-justify: auto;font-weight: bold;
+
+}
+
+p{
+    font-family: 'Calligraffitti', cursive;text-justify: auto;font-weight: bold;
+    opacity: 100%;
+
+}
+
+img {
+    border-radius: 50%;
+    opacity: 0.1%;
+  }
